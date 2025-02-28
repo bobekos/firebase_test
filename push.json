@@ -1,0 +1,29 @@
+{
+    "messages":
+    [
+        {
+            "token": "general_de",
+            "notification":
+            {
+                "title": "Hier kommt ein Titel",
+                "body": "Cras pharetra, sem ut vestibulum cursus, nulla sapien hendrerit tellus, ut hendrerit orci orci vitae libero. Sed consequat nibh sem, eget convallis metus. Maecenas eleifend eros sit amet nisl viverra lacinia. Aenean placerat fringilla est ut viverra. Sed iaculis lacinia eros eget commodo. Curabitur eget eros urna. Donec eget arcu lacus. Phasellus faucibus diam vehicula risus rhoncus convallis."
+            },
+            "data":
+            {
+                "targetUrl": "www.google.com"
+            }
+        },
+        {
+            "token": "general_de",
+            "notification":
+            {
+                "title": "Noch ein Titel",
+                "body": "Cras pharetra, sem ut vestibulum cursus, nulla sapien hendrerit tellus, ut hendrerit orci orci vitae libero. Sed consequat nibh sem, eget convallis metus. Maecenas eleifend eros sit amet nisl viverra lacinia. Aenean placerat fringilla est ut viverra. Sed iaculis lacinia eros eget commodo. Curabitur eget eros urna. Donec eget arcu lacus. Phasellus faucibus diam vehicula risus rhoncus convallis."
+            },
+            "data":
+            {
+                "targetUrl": "www.youtube.com"
+            }
+        }
+    ]
+}
